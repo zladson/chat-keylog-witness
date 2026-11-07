@@ -1,0 +1,21 @@
+{
+ "v": 1,
+ "heads": [
+  {
+   "size": 4,
+   "root": "eba1ced2b3d9bfb750be18464893f5ba0e29ec8a7b16d3e2576975b23f909b5d",
+   "at": "2026-11-07T17:04:32.669Z",
+   "key": "hOKPeL4ADtEtLOJQk-S_JZkq28WMCNByaZCy71aUc3k",
+   "sig": "rhtXSIS8SK_RZq7e5tAo4Whx0VBlTZSkpgTNTsyCSnDTyMid8YVt0xLf8K1IuQRJ-MPJxcZNIPeBprMaQI_kBg",
+   "seen": "2026-11-07T17:04:32.117Z"
+  }
+ ],
+ "transitions": [
+  {
+   "from": "8ubnMg-q404m3Izs81TJVrCB12QppbHlhu8O-zav_V8",
+   "to": "hOKPeL4ADtEtLOJQk-S_JZkq28WMCNByaZCy71aUc3k",
+   "sig": "MGkAKC2UDzRT88NQ2zlYiCVChyHnGxUsR_EHKazivv807lzxLeoyikJvjfST5Yu2GwtevjvTMQ727xQk1Je5Cg",
+   "at": "2026-11-07T17:02:55.649Z"
+  }
+ ]
+}
